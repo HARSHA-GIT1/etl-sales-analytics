@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+logs/
+*.log
+
+data/processed/
+*.db
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+~$*
+*.tmp
+
+Power BI Desktop temporary files
+*.pbix.lock
