@@ -427,15 +427,6 @@ If this project is taken further, the most useful improvements would be:
 6. Add deployment and monitoring around the pipeline.
 
 ---
-
-## A note on project metrics
-
-No claim of an “80% reduction in manual effort” is included here because that number has not been measured in this implementation.
-
-If that metric is needed for a resume or interview discussion, it is better to measure the old manual process and compare it with the actual automated workflow first.
-
----
-
 ## Project status
 
 The current version has:
